@@ -9,5 +9,4 @@ The work "Can we Trust Fair AI?" by Salvatore Ruggieri, José M. Alvarez, me, La
 
 This work briefly reviews and discusses the limitations of the current approaches to fairness in AI.
 
-
 See you in Washington DC for the conference!

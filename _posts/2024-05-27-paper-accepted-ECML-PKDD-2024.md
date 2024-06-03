@@ -8,6 +8,6 @@ The work "Interpretable and Fair Mechanisms for Abstaining Classifiers" has been
 on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2024. 
 
 
-A mandatory thanks to Daphne Lenders, the main author of the paper, and to the co-authors Roberto Pellungrini, Toon Calders, Dino Pedreschi and Fosca Giannotti.
+A huge thanks to Daphne Lenders, the main author of the paper, and to the co-authors Roberto Pellungrini, Toon Calders, Dino Pedreschi and Fosca Giannotti.
 
 See you in Vilnius for the conference!
