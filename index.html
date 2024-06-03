@@ -1,0 +1,22 @@
+---
+title: Welcome
+layout: default
+---
+
+<img src="{{site.baseurl}}/images/profilePIC.png" alt="Andrea Pugnana" class="profilePic">
+
+
+<div class = "welcome">
+    <h1>Hello there, this is Andrea!</h1>
+    <p>I am a postdoc at University of Pisa, working on trustworthy AI.</p>
+</div>
+
+
+<div class="post-list">
+    {% for post in site.posts %}
+        <a class="post-title" href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title }}</h2></a>
+        <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p>{{post.excerpt | strip_html}}</p>
+
+    {% endfor %}
+</div>
