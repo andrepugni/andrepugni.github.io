@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Paper accepted at AAAI Doctoral Consortium 2023
-date:   2022-11-19
+date:   2022-10-11
 ---
 
 The work "Topics in Selective Classification" has been accepted at the Doctoral Consortium of AAAI Conference on Artificial Intelligence (AAAI) 2023.
