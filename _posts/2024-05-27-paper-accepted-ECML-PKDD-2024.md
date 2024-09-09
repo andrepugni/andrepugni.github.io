@@ -4,7 +4,7 @@ title:  Paper accepted at ECML-PKDD 2024
 date:   2024-05-27
 ---
 
-The work "Interpretable and Fair Mechanisms for Abstaining Classifiers" has been accepted at the European Conference
+The work ["Interpretable and Fair Mechanisms for Abstaining Classifiers"](https://link.springer.com/chapter/10.1007/978-3-031-70368-3_25) has been accepted at the European Conference
 on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2024. 
 
 
