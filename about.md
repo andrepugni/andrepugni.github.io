@@ -12,7 +12,7 @@ During my PhD, I worked under the supervision of professor [Salvatore Ruggieri](
 and [Francesca Chiaromonte](https://www.santannapisa.it/it/francesca-chiaromonte).
 
 My thesis focused on Selective Prediction, a framework that extends supervised learning by allowing ML models
-to abstain from making predictions on examples that are too hard to classify. 
+to abstain from making predictions on examples that are too hard to predict. 
 This is a crucial feature for real-world applications, where the cost of making a mistake can be high.
 
 My research interests currently include abstaining systems, deferring systems, causal inference and fair AI.
