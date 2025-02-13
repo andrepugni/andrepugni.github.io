@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Paper accepted at the Senior-Member Track AAAI 2025
-date:   2024-09-01
+date:   2024-12-03
 ---
 
 The work ["Things Machine Learning Models know that they don't know"]() (link to be added asap) with Salvatore Ruggieri has been accepted at the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI) 2025.
