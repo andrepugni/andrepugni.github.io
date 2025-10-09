@@ -3,7 +3,9 @@ layout: page
 title: Teaching
 ---
 
-I am currently in charge of *Foundations of Human-AI Collaboration* (6CFU) at the University of Trento for the academic year 2025/2026.
+I am currently teaching 16 hours of the Introduction to Machine Learning course.
+You can find the course notebooks and materials [here](https://drive.google.com/drive/folders/1Iy2TOC5TEcuiAJOjcav28KQncOMgpRZL?usp=sharing).
+
 For scheduling an office hour, please contact me at [andrea[dot]pugnana[at]unitn[dot]it](mailto:andrea.pugnana@unitn.it).
 
 Previous Academic Years:
