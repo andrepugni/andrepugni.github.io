@@ -18,7 +18,7 @@ This is a crucial feature for real-world applications, where the cost of making 
 
 My research interests currently include abstaining systems, deferring systems, causal inference and fair AI.
 
-Please visit my [Google Scholar](https://scholar.google.it/citations?user=BlN-HBoAAAAJ&hl=it) for an updated list of my publications, and my [GitHub](https://github.com/andrepugni) for updated repositories.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=03UOmo8AAAAJ&hl=it) for an updated list of my publications, and my [GitHub](https://github.com/andrepugni) for updated repositories.
 
 When I am not working, I enjoy doing a bunch of things, including living surrounded by a wood with my partner Caroline,
 bothering my family with random arguments, failing at bouldering, acting for [Compagnia Ordinesparso](https://www.instagram.com/compagnia_ordinesparso/?hl=en), anything related to football and fantacalcio (fantasy football).
