@@ -4,7 +4,7 @@ title: About
 ---
 
 Hello there, this is Andrea! I am from Sarzana, Italy, and I am currently a research fellow at University of Trento focusing on teaching ML models to learn what they do not know.
-I am also a proud member of the [SML Group]().
+I am also a proud member of the [SML Group](https://sml.disi.unitn.it/).
 
 I obtained a MSc in Economics and Social Sciences from Bocconi University (Milan, Italy) in 2018 and
 a PhD in Data Science from Scuola Normale Superiore (Pisa, Italy) in 2024.
