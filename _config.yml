@@ -1,6 +1,13 @@
 ### your site title here
 
 title: Andrea Pugnana
+description: Andrea Pugnana, research fellow at the University of Trento working on selective prediction, learning to defer, causal inference and fair AI.
+url: https://andrepugni.github.io
+author: Andrea Pugnana
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 permalink: /:title
 
